@@ -9,7 +9,7 @@ authors:
   - Ludovic Stephan
   - Bruno Loureiro
   - Florent Krzakala
-  -
+  - Lenka Zdeborová
 
 # Author notes (optional)
 #author_notes:
@@ -30,7 +30,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv*
-publication_short: In *ICW*
+publication_short: Preprint in *arXiv*
 
 abstract: Despite the non-convex optimization landscape, over-parametrized shallow networks are able to achieve global convergence under gradient descent. The picture can be radically different for narrow networks, which tend to get stuck in badly-generalizing local minima. Here we investigate the cross-over between these two regimes in the high-dimensional setting, and in particular investigate the connection between the so-called mean-field/hydrodynamic regime and the seminal approach of Saad & Solla. Focusing on the case of Gaussian data, we study the interplay between the learning rate, the time scale, and the number of hidden units in the high-dimensional dynamics of stochastic gradient descent (SGD). Our work builds on a deterministic description of SGD in high-dimensions from statistical physics, which we extend and for which we provide rigorous convergence rates.
 
@@ -44,10 +44,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: arXiv
+  url: https://arxiv.org/pdf/2202.00293.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2202.00293.pdf'
+url_pdf: https://arxiv.org/pdf/2202.00293.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,7 +61,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
