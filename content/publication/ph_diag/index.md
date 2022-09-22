@@ -44,10 +44,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Custom Link
-   url: https://arxiv.org/pdf/2202.00293.pdf
+# - name: Custom Link
+#   url: https://arxiv.org/pdf/2202.00293.pdf
 
-url_pdf: ''
+url_pdf: https://arxiv.org/pdf/2202.00293.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
