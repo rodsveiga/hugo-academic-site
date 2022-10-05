@@ -6,7 +6,7 @@ title: Rodrigo Veiga
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoctoral scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
